@@ -61,9 +61,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:std-ZUBAIRALI46J@gmail.com"><img src="https://img.shields.io/badge/-hamzasajid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hamzasajid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ZUBAIR-SABIR-6673981b5/"
+<a href="mailto:std-ZUBAIRALI46J@gmail.com"
+<a href="https://www.instagram.com/ZUBAIRSABIR2980/"
  </p>
  
 <br>
